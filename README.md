@@ -12,3 +12,7 @@
 | Pornhub Scraper  | [HERE](https://repl.it/@AthallahDzaki/PornhubScraper) |
 | Tiktok Scraper  | [HERE](https://repl.it/@AthallahDzaki/TiktokScraper) |
 | Tinyurl Creator  | [HERE](https://repl.it/@AthallahDzaki/Tinyurl-Creator) |
+| TTS Cak Lontong  | [HERE](https://repl.it/@AthallahDzaki/TTSCakLontong) | 
+| MATHJS | [HERE](https://repl.it/@AthallahDzaki/MathJS) |
+| Cersex Finder | [HERE](https://repl.it/@AthallahDzaki/CersexFinder) |
+| Acara Televisi Scraper | [HERE](https://repl.it/@AthallahDzaki/Channel-Televisi-Scrapper) |
